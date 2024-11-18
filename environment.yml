@@ -1,4 +1,4 @@
-name: <GITHUB_REPOSITORY>
+name: SemanticSegmentation_01
 channels:
   - anaconda
   - pytorch
